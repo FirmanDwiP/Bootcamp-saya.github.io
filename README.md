@@ -43,21 +43,6 @@ $ git checkout [namabranch]
 ### Review Materi hari kedua :
 
 ##### Review penggunaan GIT
-- membuat branch baru untuk fiktur terbaru
-```
-& git branch [namabranch]
-$ git checkout [namabranch]
-```
-- membuat branch baru untuk fiktur terbaru
-```
-& git branch [namabranch]
-$ git checkout [namabranch]
-```
-- membuat branch baru untuk fiktur terbaru
-```
-& git branch [namabranch]
-$ git checkout [namabranch]
-```
 ##### Pengenalan Javascript
 ##### Javascript Basic 
 
